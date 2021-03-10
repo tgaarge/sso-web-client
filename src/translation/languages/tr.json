@@ -1,0 +1,17 @@
+{
+    "LOGIN_TEXT": "TGA'ya Hoş Geldiniz.",
+    "USER_NAME": "Kullanıcı Adı",
+    "PASSWORD": "Şifre",
+    "USERNAME_CAN_NOT_BE_BLANK": "Kullanıcı Adı Boş Bırakılamaz.",
+    "PASSWORD_CAN_NOT_BE_BLANK": "Şifre Alanı Boş Bırakılamaz.",
+    "REMEMBER_ME": "Beni Hatırla",
+    "FORGOT_PASSWORD": "Şifremi Unuttum",
+    "LOGIN": "Giriş Yap",
+    "NOT_A_MEMBER": "Üye Değil Misiniz?",
+    "SIGN_UP_NOW": "Hemen Üye Olun",
+    "LOGO": "tga-logo-tr.png",
+    "LOGIN_SUCCESS_TEXT":"Giriş işlemi başarılı sayfaya yönlendiriliyorsunuz.",
+    "LOGIN_ERROR_TEXT":"Kullanıcı adı ve ya şifre yanlış. Lütfen tekrar deneyiniz.",
+    "LOGIN_WARNING_TEXT_1":"* Bilgisayarınızı açarken kullandığınız kullanıcı adı ve şifreniz ile giriş yapabilirsiniz.",
+    "LOGIN_WARNING_TEXT_2":"* Şifre 5 kere yanlış girilir ise hesabınız bloklanır."
+}

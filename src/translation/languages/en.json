@@ -1,0 +1,17 @@
+{
+    "LOGIN_TEXT": "Welcome To TGA",
+    "USER_NAME": "User Name",
+    "PASSWORD": "Password",
+    "USERNAME_CAN_NOT_BE_BLANK": "Username can not be blank.",
+    "PASSWORD_CAN_NOT_BE_BLANK": "Password can not be blank.",
+    "REMEMBER_ME": "Remember Me",
+    "FORGOT_PASSWORD": "Forgot Password",
+    "LOGIN": "Login",
+    "NOT_A_MEMBER": "Not A Member",
+    "SIGN_UP_NOW": "Sign Up Now",
+    "LOGO": "tga-logo-en.png",
+    "LOGIN_SUCCESS_TEXT":"Login process is successful. You are being redirected to the page.",
+    "LOGIN_ERROR_TEXT":"Username or password incorrect. Please try again.",
+    "LOGIN_WARNING_TEXT_1":"* You can log in with the username and password you used to open your computer.",
+    "LOGIN_WARNING_TEXT_2":"* If the password is entered incorrectly 5 times, your account will be blocked."
+}

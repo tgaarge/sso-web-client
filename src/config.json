@@ -1,0 +1,9 @@
+{
+    "serviceUrl": "http://test-sso-mw.tga.gov.tr",
+    "theme": {
+        "primaryColor": "#e73233",
+        "greenColor": "#27ae60",
+        "blueColor": "#2980b9",
+        "redColor": "#c0392b"
+    }
+}

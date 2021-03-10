@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100&display=swap");
+
+$primary-color: #e73233;
+$body-bg-color: #f4f6f8;
+$green-color: #1b5e20;
+$red-color: #b71c1c;
+
+body {
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.login_header_text{
+    h2{
+        color:#34495e;
+    }
+}
+
+.information_text_area{
+    margin-top: 12px;
+    p{
+        margin: 5px;
+        color: #95a5a6;
+    }
+}
+
